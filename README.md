@@ -6,4 +6,8 @@
 
 ## Run 
 
-`sudo docker run -p 8087:80 hello-world-php`
+`sudo docker run -p 8087:80 hello-world-php` 
+
+## Use
+
+the site is then available at `localhost:8087'`
